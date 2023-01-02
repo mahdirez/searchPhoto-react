@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 32px;
+}
+
+
+
+
+.img{
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.do{
+  object-fit: cover;
+}
+
+
+
